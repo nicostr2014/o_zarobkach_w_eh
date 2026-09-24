@@ -28,11 +28,11 @@ nav a {
 }
 
 nav a:hover {
-  color: #3498db;
+  color: #ff9d00;
 }
 
 header {
-  background-color: #3498db;
+  background-color: #ff9d00;
   color: white;
   padding: 60px 20px;
   text-align: center;
